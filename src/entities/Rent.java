@@ -5,7 +5,7 @@ public class Rent {
 	private String name;
 	private String email;
 	
-	
+	//Construtor
 	public Rent(String name, String email) {
 		this.name = name;
 		this.email = email;
